@@ -1,0 +1,145 @@
+.navbar-header
+{
+    color:#4A4A4A;
+    font-weight:bolder;
+    font-size: 50px;
+    font-weight: 900;
+    margin-left: 0px
+}
+.nav-link{
+    color:#800020;
+    font-weight: bolder;
+  
+}
+.carousel-item{
+height: 700px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif';
+}
+.margin{
+    color:#1A1A80 ;
+    padding-left: 50px;
+    margin-top: -100px;
+}
+h3{
+    padding-top: 200px;
+    font-weight:bolder;
+    font-size: 50px;
+}
+.btn1
+{
+    border-radius: 50px;
+    padding:15px 55px;
+    font-size:20px;
+    margin-top: 20px;
+
+}
+
+.Contact
+{
+    background-image: url(https://bigthink.com/wp-content/uploads/2022/01/AdobeStock_236786791.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bt11
+{
+    border: 5px double black;
+    border-radius: 10px;
+    
+    color: #1A1A80; 
+    transition: background-color 0.1s ease;
+    text-decoration: none;
+    }
+.bt11:hover 
+{
+  background-color: #1A1A80; 
+  color: #fff;
+  }
+.and{
+    color: #000000;
+}
+.che{
+    color: #1A1A80;
+}
+
+.btnnv {
+  background-color: #1A1A80; 
+  color: #ffffff; 
+  padding: 15px 40px;
+  border: black 2px groove;
+  border-radius: 50px;
+  font-weight:bolder;
+  transition: background-color 0.1s ease;
+  text-decoration: none;
+   
+}
+
+.btnnv:hover {
+  background-color: #4169E1; 
+  color: #fff;
+  }
+  
+  .about{
+    color: black;
+    font-size: 20px;
+  }
+  .feat{
+     color: #1A1A80;
+     font-weight: bolder;
+     font-size: 70px;
+  }
+  .fp{
+    color: #000000;
+    font-size: 20px;
+  }
+
+  .btnv1{
+    margin-left:50%;
+    margin-top: 10%;
+  }
+.cd{
+    color: #1A1A80;
+     font-weight: bolder;
+     font-size: 25px;
+
+}
+.btnnv2{
+  background-color:royalblue; 
+  color: #ffffff; 
+  padding: 15px 40px;
+  border: black 5px groove;
+  border-radius: 20px;
+  font-weight:bolder;
+  transition: background-color 0.1s ease;
+  text-decoration: none;
+  width: 50%;
+  font-size: 20px;
+}
+.btnnv2:hover{
+    background-color: white;
+    color: black;
+}
+
+.mar1{
+    margin-top:150px;
+}
+.d-block {
+    width: 200px;
+}
+.ctn{
+    color: #1A1A80;
+     font-weight: bolder;
+     font-size: 20px;
+     margin:auto;
+}
+.ct1{
+    font-size: 50px;
+    text-align: center;
+}
+
+h6{
+    color: #1A1A80;
+    font-weight: bolder;
+}
